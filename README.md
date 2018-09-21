@@ -3,7 +3,7 @@
 ## Goal:
 
 ```
-Push change to Gitlab
+Push change to Gitlab(branch master)
 Gitlab building Docker image
 Push image to a remote registry(AWS-ECR)
 Deploy to a server from the pushed image
